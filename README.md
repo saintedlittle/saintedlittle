@@ -57,3 +57,6 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkapitman&show_icons=true&locale=ru" alt="lkapitman" />
 </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lkapitman" alt="CarryLove profile wakatime stats" /> 
+</p>
