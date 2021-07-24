@@ -19,12 +19,12 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
 
 ![](https://img.shields.io/badge/Code-HTTP-informational?style=flat-square&logo=http&logoColor=white&color=5194f0)
 
-![](https://img.shields.io/badge/Code-Express-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-Spring-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat-square&logo=php&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Framework-Express-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat-square&logo=php&logoColor=white&color=5194f0)
 
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=5194f0)
 
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html&logoColor=white&color=5194f0)
