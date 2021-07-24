@@ -16,6 +16,10 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-Haskell-informational?style=flat-square&logo=haskell&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c++&logoColor=white&color=5194f0)
+
 
 ![](https://img.shields.io/badge/Code-HTTP-informational?style=flat-square&logo=http&logoColor=white&color=5194f0)
 
