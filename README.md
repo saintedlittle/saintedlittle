@@ -13,23 +13,23 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=5194f0)
 
-![](https://img.shields.io/badge/Code-HTTP-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-HTTP-informational?style=flat-square&logo=http&logoColor=white&color=5194f0)
 
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-Spring-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-Spring-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat-square&logo=php&logoColor=white&color=5194f0)
 
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=5194f0)
 
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html&logoColor=white&color=5194f0)
 
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=5194f0)
 
 ### 📈 GitHub Stats
 <p align="center">
