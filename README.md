@@ -46,6 +46,6 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
 <p>
   <a href="https://www.youtube.com/channel/UCRl9x2DdcVkTlt1lutTfJnA"><img src="https://img.shields.io/badge/-MDBA-5194f0?style=flat-square&logo=Youtube" /></a>
   <a href="https://vk.com/seriousfrontend"><img src="https://img.shields.io/badge/-Вконтакте-5194f0?style=flat-square&logo=Вконтакте" /></a>
-  <a href="NullPointer#4459"><img src="https://img.shields.io/badge/-Discord-5194f0?style=flat-square&logo=discord" /></a>
+  <a href="https://discord.gg/w3uuXxRsu7"><img src="https://img.shields.io/badge/-Discord-5194f0?style=flat-square&logo=discord" /></a>
 </
 </p>
