@@ -2,10 +2,6 @@
 
 My name is Lion and I'm a fullstack software engineer. I'm from Russia, living in ❄Kaliningrad and currently working at startup.
 
-### 📺 Channel
-
-Apart from coding, I also maintain a YouTube channel - you can find my videos at [MDBA](https://www.youtube.com/channel/UCRl9x2DdcVkTlt1lutTfJnA)
-
 ### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
