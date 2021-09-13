@@ -2,6 +2,11 @@
 
 My name is Lion and I'm a fullstack software engineer. I'm from Russia, living in ❄Kaliningrad and currently working at startup.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flkapitman&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views+Count&edge_flat=false)](https://github.com/lkapitman/)
+
+![hanoi](https://www.mat.unical.it/informatica/MatematicaDiscreta?action=AttachFile&do=get&target=hanoi.gif)
+
+
 ### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
