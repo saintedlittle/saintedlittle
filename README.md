@@ -2,8 +2,7 @@
 
 My name is Lion and I'm a fullstack software engineer. I'm from Russia, living in ❄Kaliningrad and currently working at startup.
 
-![hanoi](https://www.mat.unical.it/informatica/MatematicaDiscreta?action=AttachFile&do=get&target=hanoi.gif)
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lkapitman)
 
 <p align="left"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 </p>
