@@ -4,35 +4,6 @@ My name is Lion and I'm a fullstack software engineer. I'm from Russia, living i
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lkapitman)
  
-### 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
-
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
-
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-Haskell-informational?style=flat-square&logo=haskell&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat-square&logo=c++&logoColor=white&color=5194f0)
-
-
-![](https://img.shields.io/badge/Code-HTTP-informational?style=flat-square&logo=http&logoColor=white&color=5194f0)
-
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Framework-CodeIgniter-informational?style=flat-square&logo=php&logoColor=white&color=5194f0)
-
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=5194f0)
-
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html&logoColor=white&color=5194f0)
-
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=5194f0)
-
 ### 📈 GitHub Stats
 <p align="center">
   <table>
