@@ -20,7 +20,7 @@ My name is Lion and I'm a fullstack software engineer. I'm from Russia, living i
 
 <p>
   <a href="https://www.youtube.com/channel/UCRl9x2DdcVkTlt1lutTfJnA"><img src="https://img.shields.io/badge/-MDBA-5194f0?style=flat-square&logo=Youtube" /></a>
-  <a href="https://vk.com/seriousfrontend"><img src="https://img.shields.io/badge/-Вконтакте-5194f0?style=flat-square&logo=Вконтакте" /></a>
-  <a href="https://discord.gg/TKjUFKWhy7"><img src="https://img.shields.io/badge/-Discord-5194f0?style=flat-square&logo=discord" /></a>
+  <a href="https://vk.com/kex__sl_s"><img src="https://img.shields.io/badge/-Вконтакте-5194f0?style=flat-square&logo=Вконтакте" /></a>
+  <a href="kex --sl -s#4459"><img src="https://img.shields.io/badge/-Discord-5194f0?style=flat-square&logo=discord" /></a>
 </
 </p>
