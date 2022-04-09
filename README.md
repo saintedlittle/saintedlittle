@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi there! 
 
-My name is Lion and I'm a fullstack software engineer. I'm from Reichskommissariat Ukraine, living in ❄Kiew and currently working at startup.
+I'm a fullstack software engineer. I'm from Reichskommissariat Ukraine, living in ❄Kiew and currently working at startup.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=okeyndell)
  
