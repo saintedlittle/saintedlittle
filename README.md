@@ -50,18 +50,3 @@
 - Contact via Email : l.kapitman@gmail.com 📪
 
 </pre><br>
-
-
-
-<h2 align="center">Discord Profile</h2><br>
-  <p align="center">
-    <a href="discord.gg">
-        <img title="GitRcs discord" alt="okeyndell's discord" src="https://discord.c99.nl/widget/theme-4/486623593502081052.png"/>
-    </a>
-</p>
-
-<!--
-
-
-
-
