@@ -4,14 +4,7 @@
   
 <p align="center">
   <a href="https://github.com/okeyndell">
-   <img alt="Github" src="https://img.shields.io/github/followers/okeyndell?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
-  
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=okeyndell&row=2&column=8&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
-
-  
-
-  
+   <img alt="Github" src="https://img.shields.io/github/followers/okeyndell?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a> 
 </p>
 
 
