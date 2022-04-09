@@ -23,7 +23,7 @@
 <p align="center">
   
   
-- I live in Reichskommissariat Ukraine ⭐
+- I live in Poland ⭐
 
 - Contact via Discord : kex --sl -s#4459 📞
 
