@@ -27,6 +27,4 @@
 
 - Contact via Discord : kex --sl -s#4459 📞
 
-- Contact via Email : l.kapitman@gmail.com 📪
-
 </pre><br>
