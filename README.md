@@ -16,11 +16,10 @@
   
 </p><br>
     
-<p align="center">
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="okeyndell's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okeyndell&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="okeyndell's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okeyndell&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <h2 align="center">Contact me</h2>
-
   
+<p align="center">
 
 <a href="https://github.com/okeyndell"><img alt="okeyndell's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=okeyndell&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
   
