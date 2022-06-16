@@ -25,6 +25,6 @@
   
 - I live in Poland ⭐
 
-- Contact via Discord : kex --sl -s#4459 📞
+- Contact via Discord : dnf makecache --refresh#4459 📞
 
 </pre><br>
