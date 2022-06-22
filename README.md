@@ -8,7 +8,7 @@
 <a href="https://github.com/okeyndell"><img alt="okeyndell's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=okeyndell&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
 </p><br>
 
-<h2 align="center">Contact me</h2>
+<h2 align="center">Contact</h2>
   
 <p align="center">
   
