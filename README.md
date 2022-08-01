@@ -13,7 +13,7 @@
 <p align="center">
   
   
-- I live in Poland ⭐
+- I live in Austria ⭐
 
 - Contact via Discord : x715x#8894 📞
 
