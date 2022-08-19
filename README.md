@@ -15,6 +15,6 @@
   
 - I live in Austria ⭐
 
-- Contact via Discord : x715x#8894 📞
+- Contact via Discord : Nxvkxgod#5447 📞
 
 </pre><br>
