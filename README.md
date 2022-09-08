@@ -11,10 +11,3 @@
 <h2 align="center">Contact</h2>
   
 <p align="center">
-  
-  
-- I live in Austria ⭐
-
-- Contact via Discord : Nxvkxgod#5447 📞
-
-</pre><br>
