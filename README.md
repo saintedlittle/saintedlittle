@@ -9,6 +9,6 @@
 </p><br>
 
 <h2 align="center">Contact</h2>
-  <p align="center">👍 via Discord: Nxvkxgod#5447</p>
-  <a align="center" href="https://t.me/Z_FORMAT18_V">❤ via Telegram</a>  
+  <p>👍 via Discord: Nxvkxgod#5447</p>
+  <a href="https://t.me/Z_FORMAT18_V">❤ via Telegram</a>  
 <p align="center">
