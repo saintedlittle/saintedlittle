@@ -10,5 +10,5 @@
 
 <h2 align="center">Contact</h2>
   <p align="center">👍 via Discord: Nxvkxgod#5447</p>
-  <p align="center" href="https://t.me/Z_FORMAT18_V">❤ via Telegram</p>  
+  <a align="center" href="https://t.me/Z_FORMAT18_V">❤ via Telegram</a>  
 <p align="center">
