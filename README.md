@@ -8,7 +8,6 @@
     <a href="https://github.com/Leanfe">
         <img title="Leanfe stats" alt="Leanfe's streak" src="https://github-readme-stats.vercel.app/api?username=Leanfe&show_icons=true&theme=transparent"/>
     </a>
-    <br>
     <a href="https://github.com/Leanfe">
         <img title="Leanfe stats" alt="Leanfe's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leanfe&layout=compact"/>
     </a>
