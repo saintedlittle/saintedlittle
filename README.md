@@ -5,5 +5,5 @@
         <img title="SarnaxLii stats" alt="Leanfe's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Leanfe&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 
-  ![Leanfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=leanfe&show_icons=true&theme=transparent)
+  ![Leanfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leanfe&show_icons=true&theme=transparent)
 </p><br>
